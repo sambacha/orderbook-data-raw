@@ -1,0 +1,16 @@
+# orderbook-data-raw
+
+Raw data of order book OHLCV for SPY on 4/21/22020 and additional products
+
+
+### NASDAQ Notice
+
+Nasdaq charges additional fees for the usage of their data by "Professional Subscribers". This is why we have to pass additional charges to Professional Subscribers. The phrase "Professional Subscriber" means any natural person, proprietorship, corporation, partnership, or other entity whatsoever who is:
+(a) registered or qualified in any capacity with the SEC, the Commodities Futures Trading Commission, any state securities agency, any securities exchange or association, or any commodities or futures contract market or association; OR
+(b) engaged as an "investment advisor" as that term is defined in Section 201 (11) of the Investment Advisors Act of 1940 (whether or not registered or qualified under that Act); OR
+(c) employed by a bank or other organization exempt from registration under federal or state securities laws to perform functions that would require registration or qualification if such functions were performed for an organization not so exempt.
+
+If you are a natural person who does not meet any of the above conditions, you may qualify as a Non-Professional Subscriber. Please refer to the latest Nasdaq's Subscriber Agreement or your Broker for a more detailed explanation of this term.
+
+
+# LGPL 2.0
